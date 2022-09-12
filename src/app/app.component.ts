@@ -1,4 +1,5 @@
 import { Component, VERSION } from '@angular/core';
+import { initializeApp } from 'firebase/app';
 
 @Component({
   selector: 'my-app',
