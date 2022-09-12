@@ -1,5 +1,5 @@
 import { Component, VERSION } from '@angular/core';
-import { db } from './firebase';
+//import { db } from './firebase';
 //import { collection, getDocs } from 'firebase/firestore/lite';
 
 @Component({
